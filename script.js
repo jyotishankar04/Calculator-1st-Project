@@ -19,6 +19,8 @@ let operation = '';
 let previousOperand = 0;
 
 
+
+
 // Making a function to select operator
 function selectOperation(operaterValue){
     if(result === '') return;// this returns if there is no vaule in the result display
